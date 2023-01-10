@@ -1,0 +1,5 @@
+fn subtract(i : float, j : float) : float {
+  return i - j
+}
+
+show subtract(args[0], args[1])
